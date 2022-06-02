@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Digikraft Demo</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_bike_stations_map_detail_fragment">BikeStationsMapDetailFragment
+    </string>
+    <string name="id">123</string>
+    <string name="demo_distance">560m</string>
+    <string name="demo_label">Offiar Debiar</string>
+    <string name="demo_type">Bike Station</string>
+    <string name="available_bikes">Available bikes</string>
+    <string name="available_places">Available places</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+
+</resources>
